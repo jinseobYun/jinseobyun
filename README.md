@@ -61,13 +61,14 @@
 <hr>
 <div>
   <h3>🎮 Activities</h3>
-  |Organization|Activity|Position|Achieve|Date|
+  
+  |Organization|Activity|Overview|Position|Date|
   |:---:|:---:|:---:|:---:|:---:|
-  |SSAFY 11기|SAMSUNG SW ACADEMY FOR YOURTH|Trainee|진행중|2024.01.04~2024.12.29|
-  |SSAFY 11기|SSAFY 관통 프로젝트, 헬스 용품 및 운동 보조제 중고 거래 쇼핑몰 사이트[SSafitmall]|Team Member<br> 팀장, BE |완료|2024.05.16~2024.05.24|
-  |SSAFY 11기|SSAFY 공통 프로젝트, 신고자와 119 상황실 간의 신고 프로세스를 단축 시키고자 구현한 응급 신고 서비스 [SaveMe&RescU]|Team Member<br> BE|완료|2024.07.02~2024.08.16|
-  |SSAFY 11기|SSAFY 특화 프로젝트, 여행 예산 관리 어플리케이션[Triplet]|Team Member<br> 팀장, BE|완료|2024.08.19~2024.10.11|
-  |SSAFY 11기|SSAFY 자율 프로젝트, 소통에 설렘을 더하다, 위치 기반 쪽지 서비스 어플리케이션[별이삼샵]|Team Member<br>BE |완료|2024.10.14~2024.11.19|
+  |SSAFY 11기|SAMSUNG SW ACADEMY|삼성 청년 소프트웨어 아카데미|Trainee|2024.01.04~2024.12.29|
+  |SSAFY 11기|SSAFY 관통 프로젝트|헬스 용품 및 운동 보조제 중고 거래 쇼핑몰 사이트 <br> **SSafitmall**|팀장 <br>BE, FE |2024.05.16~2024.05.24|
+  |SSAFY 11기|SSAFY 공통 프로젝트|신고자와 119 상황실 간의 신고 프로세스를 단축 시키고자 구현한 응급 신고 서비스 <br> **SaveMe&RescU**|팀원 <br> BE|2024.07.02~2024.08.16|
+  |SSAFY 11기|SSAFY 특화 프로젝트|여행 예산 관리 어플리케이션<br>**Triplet**|팀장<br> BE, INFRA|2024.08.19~2024.10.11|
+  |SSAFY 11기|SSAFY 자율 프로젝트|소통에 설렘을 더하다, 위치 기반 쪽지 서비스 어플리케이션<br>**별이삼샵**|팀원<br>BE|2024.10.14~2024.11.19|
   
 </div>
 <hr>
