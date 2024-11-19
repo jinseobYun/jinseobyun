@@ -53,9 +53,8 @@
   <div align= "center"> 
   <h3>📑 Git Information</h3>
   <p>
-  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseobyun&layout=donut&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinseobyun&custom_title=jinseobyun's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-  <img width=500 src="https://streak-stats.demolab.com?user=jinseobyun&theme=react&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D">
+ <img src="https://github-readme-stats.vercel.app/api?username=jinseobyun&custom_title=jinseobyun%27s%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseobyun&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
   </p>
 </div>
 <hr>
