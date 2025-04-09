@@ -1,18 +1,18 @@
-<table style="border: none; border-collapse: collapse;">
-  <tr align="center">
-    <td valign="top"  style="border: none; padding: 8px;">
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr align="center" style="border: none;">
+    <td valign="top" style="border: none !important; padding: 8px;">
       <!-- ID 1 -->
-      <h2>🙂‍↕️ 안녕하세요. 윤진섭입니다</h2>
+      <h2>🖐️ 안녕하세요. 윤진섭입니다</h2>
       <a href="https://github.com/jinseobyun">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
       </a><br>
       🎓 한경대학교 소프트웨어 융합 복수전공<br>
       🔎 삼성 청년 SW 아카데미 (SSAFY) 11기
     </td>
-    
-  <td valign="top" style="border: none; padding: 8px;">
+
+  <td valign="top" style="border: none !important; padding: 8px;">
     <!-- ID 2 -->
-    <h3>🛠 SKILL 🛠</h3>
+    <h3>⚙️ SKILL </h3>
     <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/><br>
@@ -23,16 +23,18 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
   </td>
   </tr>
-  
-  <tr align="center">
-    <td valign="top" style="border: none; padding: 8px;">
+
+  <tr align="center" style="border: none;">
+    <td valign="top" style="border: none !important; padding: 8px;">
       <!-- ID 3 -->
       <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=wlstjq447"/>
     </td>
-    
-  <td valign="top" style="border: none; padding: 8px;">
+
+  <td valign="top" style="border: none !important; padding: 8px;">
     <!-- ID 4 -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseobyun&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   </td>
   </tr>
 </table>
+
+
