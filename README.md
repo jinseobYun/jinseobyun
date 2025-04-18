@@ -1,6 +1,6 @@
 <table align="center" style="border-collapse: collapse; border: none;">
-  <tr align="center" style="border: none;">
-    <td valign="top" style="border: none !important; padding: 8px;">
+  <tr align="center" style="border: 1 solid none;">
+    <td valign="top" style="border-left:none; !important; padding: 8px;">
       <!-- ID 1 -->
       <h2>🖐️ 안녕하세요. 윤진섭입니다</h2>
       <a href="https://github.com/jinseobyun">
