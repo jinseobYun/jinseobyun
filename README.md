@@ -14,7 +14,7 @@
     <!-- ID 2 -->
     <h3>⚙️ SKILL </h3>
     <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>    
     <img src="https://img.shields.io/badge/Spring JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
