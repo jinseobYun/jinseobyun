@@ -4,7 +4,7 @@
       <!-- ID 1 -->
       <h2>🖐️ 안녕하세요. 윤진섭입니다</h2>
       <a href="https://github.com/jinseobyun">
-         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseobyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<!--          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseobyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> -->
       </a><br>
       🎓 한경대학교 소프트웨어 융합 복수전공<br>
       🏛️ 삼성 청년 SW 아카데미 (SSAFY) 11기
