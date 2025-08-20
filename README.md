@@ -8,6 +8,7 @@
       </a><br> -->
       🎓 한경대학교 소프트웨어 융합 복수전공<br>
       🏛️ 삼성 청년 SW 아카데미 (SSAFY) 11기
+      🍀 네이버 부스트캠프 웹 풀스택 챌린지 과정
     </td>
 
   <td valign="top" style="border: none !important; padding: 8px;">
