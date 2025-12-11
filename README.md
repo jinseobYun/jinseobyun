@@ -33,7 +33,7 @@
 
   <td valign="top" style="border: none !important; padding: 8px;">
     <!-- ID 4 -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseobyun&layout=compact&hide=javascript,css,scss,typescript&theme=dracula&langs_count=8"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseobyun&layout=compact&hide=javascript,css,scss,typescript&theme=dracula&langs_count=8"/> -->
   </td>
   </tr>
 </table>
